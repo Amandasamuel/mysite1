@@ -1,2 +1,1 @@
-# mysite1
-my company website
+TinDog Starting Files
